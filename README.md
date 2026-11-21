@@ -1,30 +1,17 @@
-# Student Marks Predictor
+# 🎓 Student Marks Predictor
 
-## About
-Student Marks Predictor is a machine learning
-project that predicts student marks based on
-study hours.
+An AI-based machine learning web application that predicts student marks based on daily study hours.
 
-## Technologies Used
-- Python
-- Streamlit
-- Machine Learning
-- Matplotlib
+## 🚀 Live Demo
+👉 **[Click here to try the Live App](https://student-mark-predictor-9z8yes5jr8yftc7khpq3wz.streamlit.app/)**
 
-## Features
-- Enter study hours
-- Predict student marks
-- Display prediction graph
-- Visualize training data
+## 📸 Project Screenshot
+![Student Marks Predictor Demo](demo.png)
 
-## How to Run
-
-1. Install Python.
-2. Install required libraries.
-3. Run the command:
-
-streamlit run app.py
-
-## Developer
-Karthick S
-First Year AIDS Project
+## 🛠️ Technologies Used
+* **Python**
+* **Streamlit** (Web Interface)
+* **Scikit-Learn** (Machine Learning Model)
+* **Pandas & NumPy** (Data Processing)
+* **Matplotlib** (Data Visualization)
+*
